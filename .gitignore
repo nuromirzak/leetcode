@@ -1,0 +1,5 @@
+# Project exclude paths
+# /leetcode/
+
+/src/
+/out/
